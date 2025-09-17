@@ -1,0 +1,59 @@
+Xhnirr: The Full Stack Fiverr Clone 
+
+
+⚡ Project Setup
+1️⃣ Create React App with Vite
+npm create vite@latest
+
+
+Select React (JavaScript)
+Move into the created folder and install dependencies:
+
+cd project-name
+npm install
+
+2️⃣ Project Folder Structure
+
+--laterrrr...
+
+3️⃣ Styling with SCSS
+
+Why SCSS?
+SCSS is like CSS with superpowers:
+
+✅ Nesting (write cleaner, hierarchical styles)
+✅ Variables (no need for global :root variables)
+✅ Mixins & Includes (reusable style snippets)
+✅ Less boilerplate code
+
+Install Sass compiler:
+npm install sass
+Import in your component:
+import './styles/App.scss';
+
+4️⃣ ESLint Setup
+
+Why ESLint?
+ESLint is a linter for JavaScript/React projects.
+It ensures:
+🚫 No syntax errors
+🚫 No bad practices
+✅ Clean and consistent code style
+
+Install ESLint as dev dependency:
+npm install eslint --save-dev
+Initialize ESLint:
+npx eslint --init
+
+During setup:
+Environment → Browser
+Config format → JSON
+
+
+now basic Folder Structure is ready and the setup also ..
+
+
+
+
+
+
