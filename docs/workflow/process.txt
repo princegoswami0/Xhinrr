@@ -53,6 +53,9 @@ Config format → JSON
 now basic Folder Structure is ready and the setup also ..
 
 
+now start from components > navbar.jsx and navbar .css adn insatll react-router-dom
+
+
 
 
 

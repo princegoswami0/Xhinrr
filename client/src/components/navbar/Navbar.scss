@@ -1,0 +1,30 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.navbar{
+  display: flex;
+  justify-content: center;
+  .container{
+    width: 1400px;
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+    .logo{
+      .text{
+
+      }
+      .dot{
+
+      }
+
+    }
+    .nav-links{
+      span{
+
+      }
+
+    }
+  }
+}

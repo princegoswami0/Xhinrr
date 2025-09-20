@@ -1,0 +1,4 @@
+this it the file that is helpful tio undereatnd css concept and aptterns 
+
+starting from navbar :------
+
